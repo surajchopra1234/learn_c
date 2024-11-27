@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 23)
 
 add_executable(learn_c main.c
         module_1.c
-        module_2.c)
+        module_2.c
+)
